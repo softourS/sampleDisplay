@@ -1,0 +1,13 @@
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/bin/Debug/netstandard2.0/sampleDisplay.deps.json
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/bin/Debug/netstandard2.0/sampleDisplay.dll
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/bin/Debug/netstandard2.0/ref/sampleDisplay.dll
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/bin/Debug/netstandard2.0/sampleDisplay.pdb
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/sampleDisplay.AssemblyInfoInputs.cache
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/sampleDisplay.AssemblyInfo.cs
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/sampleDisplay.dll
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/ref/sampleDisplay.dll
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/sampleDisplay.pdb
+/Users/macbookpro/_proyectos/sampleDisplay/sampleDisplay/obj/Debug/netstandard2.0/sampleDisplay.csprojAssemblyReference.cache
